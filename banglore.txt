@@ -1,0 +1,4 @@
+namesatish
+age25
+location:banglore
+nithish kuma
